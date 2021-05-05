@@ -1,0 +1,5 @@
+I used binary search tree as its more efficient approach because if I start counting up from 1 it will multiply each iteration by itself until tagret reached which is very long compared to BST.
+
+Time Complexity: O(log(n)) which is similiar to Binary Search Tree
+
+Space Complexity: O(1) Because it doesnt depend on the input

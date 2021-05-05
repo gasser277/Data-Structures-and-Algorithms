@@ -1,0 +1,9 @@
+Default Dict data structure was used because its more structured and efficient to edit
+
+Add Handler Method:
+Time Complexity: O(n) Each part of the path needs to be iterated through
+Space Complexity: O(n) A new TrieNode is created for each part
+
+Lookup Method:
+Time Complexity: O(n) Each part of the path needs to be iterated through
+Space Complexity: O(1) no additional memory used

@@ -1,0 +1,5 @@
+The algorithm defines min and max values as initial values in the array, then iterates through whol array and changing each one
+accordingly
+Time Complexity: O(n): iteration through whole array
+
+Space Complexity: O(1). no additoonal memory used

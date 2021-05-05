@@ -1,0 +1,4 @@
+I used Binary Search Algorithm which is more efficient than just funding the pivot seperately.
+
+Time Complexity: O(log n)
+Space Complexity: O(1)

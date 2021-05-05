@@ -1,0 +1,5 @@
+pointer was used on 0 and 2 to keep track. I used sorting algorithm defined in function sort_012
+ 
+Time Complexity: O(n). Iteration is one time through input array.
+
+Space Complexity: O(1) sorting process is in place so it uses the already given array

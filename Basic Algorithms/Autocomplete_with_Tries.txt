@@ -1,0 +1,17 @@
+Default Dict data structure was used because its more structured and efficient to edit
+
+Find Method:
+
+Time Complexity: O(n):iteration through whole string:
+
+Space Complexity: O(1):No memory is used
+
+Insert Method
+Time Complexity: O(n):iteration through whole string
+
+Space Complexity: O(n):all characteres in string need be be used in memory
+
+Suffixes Method
+Time Complexity: O(n):iteration through whole string
+
+Space Complexity: O(1):No memory is used

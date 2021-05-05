@@ -1,0 +1,5 @@
+I decided to use a max heap for sorting because its effecient
+
+Time Complexity: O(nlog n) popping step takes O(nlog n), and creating the output takes O(n) resulting in O(nlog n).
+Space Complexity: O(n). The max heap creates a new array of size n.
+
